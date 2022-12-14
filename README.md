@@ -15,3 +15,8 @@
 >* Basta escolher a moeda que você deseja converter e qual moeda você deseja que seja convertida.
 >* Depois de escolher suas moedas, basta digitar seu valor.
 >* E apertar no botão de Converter.
+
+### Componentes
+* Lunna Evellyn N°21
+* Mairton Rodrigues N°22
+* Sara Ketlyn N°39
